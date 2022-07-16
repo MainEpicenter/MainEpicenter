@@ -5,9 +5,9 @@
 
 ### :wave: Me
 
-안녕하세요. 저는 [AIHA Lab](https://jchoi-hyu.github.io/)을 다니고 있는 대학원생입니다.
+안녕하세요. 저는 [Openedges Technology](https://www.openedges.com/ko)에 다니는 HW Engineer입니다.
 
-### :telescope: Goal this year (2021)
+<!-- ### :telescope: Goal this year (2021)
 
 - Study English :sob:
 - Write Good Paper :sob:
@@ -16,10 +16,10 @@
 
 ### :book: Research
 
-- Deep Learning Accelerator Design
+- Deep Learning Accelerator Design -->
 
 ### :envelope: Blog & Email & Stats
 
-[![Github Blog Badge](https://img.shields.io/badge/-Github%20blog-black?style=flat-square&logo=github)](https://mainepicenter.github.io/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![Github Blog Badge](https://img.shields.io/badge/-Github%20blog-black?style=flat-square&logo=github)](https://mainepicenter.github.io/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:realcircle314@gmail.com)](mailto:realcircle314@gmail.com)
 
 ![MainEpicenter's github stats](https://github-readme-stats.vercel.app/api?username=MainEpicenter&count_private=true)
